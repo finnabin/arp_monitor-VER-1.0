@@ -1,0 +1,6 @@
+# Known devices configuration file
+# Format: IP,MAC,Name (Name is optional)
+# Example entries:
+# 192.168.1.1,00-11-22-33-44-55,Router
+# 192.168.1.100,aa-bb-cc-dd-ee-ff,My Laptop
+# 192.168.1.50,12-34-56-78-9a-bc
